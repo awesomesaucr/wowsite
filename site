@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+<html>
+<center>
+	<h1> WoW Bullyard Server Instructions </h1>
+
+	<h3><a href="https://mega.nz/file/1wUFVRaZ#bN3zNeH4wvqJhTK6VxDhN5ut3TtHtOSLrCkHjiW8oJc"> Downloading the Client</a></h3>
+	<p>Click the text above to be redirected to the client download, once downloaded follow the video instructions at the bottom of the site to get your own username. You can continue with the site in the mean time.</p>
+	<h3><a href="https://login.tailscale.com/login?next_url=/welcome">Tailscale VPN</a></h3>
+	<body style="background-color:powderblue;">	<p> You must login to the Tailscape VPN account login that will be given to you when you're invited to the server. The reason for this is so that everyone is under the same universal IP for the server. No information of yours is save. </p> </body>
+	<h3> Account Creation </h3>
+	<p>A way to easily create an account in game will be worked on in the near future, but for right now, just request a username and password and it will be created, and sent to you.</p>
+<h3> How to get your name in the server</h3>
+<p>Verify with the person that made your account that the name that you put into this notepad, is the same name as your LOGIN name.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Qw7ZMg6v6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+</center>
+
+
+<style>
+p {
+  font-size: 14px;
+}
+</style>
+
+</html>
